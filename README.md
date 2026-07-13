@@ -1,3 +1,3 @@
 StudentManagementRepository
-- This is a beginerfriendly project 
+-This is a beginerfriendly project 
 
